@@ -1,0 +1,12 @@
+Joe: Hello there
+Mary: How are you?
+Joe: I'm doing well
+Bob: Great weather today
+ERROR: Connection failed
+INFO: Process completed
+This is a very long line that exceeds fifty characters in total length
+Short line
+
+Line with 123 numbers
+alice@example.com
+bob@Joe.org
