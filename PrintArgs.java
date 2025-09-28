@@ -1,5 +1,3 @@
-package sol;
-
 /**
 * A class to print arguments given to it
 */

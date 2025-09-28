@@ -52,7 +52,7 @@ public class ExpenseTracker {
      * @return an ArrayList of Expenses with the file data
      */
     public ArrayList<Expense> loadExpenses(String filename) {
-        return void;
+        return null;
     }
 
     /**
