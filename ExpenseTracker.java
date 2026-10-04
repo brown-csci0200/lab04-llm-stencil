@@ -91,7 +91,7 @@ public class ExpenseTracker {
     public static void main(String[] args) {
         // uncomment next line when ready to use via run configurations
         // new ExpenseTracker().run(args[0], args[1]);
-        new ExpenseTracker().run("solution-code/src/data/expenses1.csv", "food");
-        new ExpenseTracker().run("solution-code/src/data/expenses1.csv", "gas");
+        new ExpenseTracker().run("data/expenses1.csv", "food");
+        new ExpenseTracker().run("data/expenses1.csv", "gas");
     }
 }
